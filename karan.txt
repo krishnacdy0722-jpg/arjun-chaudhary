@@ -1,1 +1,6 @@
-my name krishna chaudhary
+MKDIR = create a folder
+cd = change directiry 
+touch =create a fail  
+git add 
+git config user. email "your email"
+git c
