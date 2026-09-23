@@ -6,3 +6,4 @@ git config user. email "your email"
 git c
 
 the curriculum blends core engineering, programming, 
+my name is mukesh
