@@ -4,3 +4,5 @@ touch =create a fail
 git add 
 git config user. email "your email"
 git c
+
+the curriculum blends core engineering, programming, 
